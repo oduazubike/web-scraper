@@ -1,0 +1,52 @@
+[
+  {
+    "Headline": "How to handle file uploads with Flask",
+    "Summary": "Uploading files is tricky! In this post we show you two ways: a simple and a less simple, depending on your needs.",
+    "Post Link": "https://blog.teclado.com/file-uploads-with-flask/"
+  },
+  {
+    "Headline": "Build a blog platform with Flask: writing and showing posts",
+    "Summary": "Part 1 of this series to guide you through building a blog using Flask and Python! In this post you'll learn how to start your Flask app, set up a database, and create posts.",
+    "Post Link": "https://blog.teclado.com/build-own-blog-platform-flask-python-part-1/"
+  },
+  {
+    "Headline": "How to set up a server using AWS",
+    "Summary": "Amazon Web Services is one of the most popular choices for cloud computing nowadays. It can be quite confusing though! In this blog post we'll learn how to provision a server that we can access using SSH.",
+    "Post Link": "https://blog.teclado.com/how-to-set-up-a-server-using-aws/"
+  },
+  {
+    "Headline": "How to interact with REST APIs from JavaScript",
+    "Summary": "Learn how to use JavaScript to interact with your REST APIs, using XMLHttpRequest and also fetch.",
+    "Post Link": "https://blog.teclado.com/how-to-interact-with-rest-apis-from-javascript/"
+  },
+  {
+    "Headline": "Flashing messages with Flask",
+    "Summary": "Learn how to temporarily show messages in your websites when using Flask, by using the built-in message flashing mechanism. It's flexible yet straightforward!",
+    "Post Link": "https://blog.teclado.com/flashing-messages-with-flask/"
+  },
+  {
+    "Headline": "Handling the next URL when logging in with Flask",
+    "Summary": "Learn how to redirect users to their intended destination after logging in, instead of a default \"profile\" page every time. Simple, but can have a big impact in user experience!",
+    "Post Link": "https://blog.teclado.com/handling-the-next-url-when-logging-in-with-flask/"
+  },
+  {
+    "Headline": "Protecting endpoints in Flask apps by requiring login",
+    "Summary": "In this post we'll learn to prevent unauthorised logins to our Flask endpoints. We'll also look at decorators so that we can secure endpoints with a single line of code for each!",
+    "Post Link": "https://blog.teclado.com/protecting-endpoints-in-flask-apps-by-requiring-login/"
+  },
+  {
+    "Headline": "Simple JWT Authentication with Flask-JWT",
+    "Summary": "Adding authentication in Flask applications can be really straightforward. Learn more about token-based authentication with Flask-JWT in this post.",
+    "Post Link": "https://blog.teclado.com/simple-jwt-authentication-with-flask-jwt/"
+  },
+  {
+    "Headline": "What is CORS and how to \"fix\" it",
+    "Summary": "CORS is a security feature of browsers, but is configured in the server side. It is used to control requests coming in from different domains. Learn more in this post!",
+    "Post Link": "https://blog.teclado.com/what-is-cors-and-how-to-fix-it/"
+  },
+  {
+    "Headline": "Why does scraping fail with requests and BeautifulSoup?",
+    "Summary": "Do you have scraping code which works in some websites but not others, even though you're sure the method you're using to get data out of the site is correct? JavaScript could be the problem!",
+    "Post Link": "https://blog.teclado.com/why-scraping-fail-requests-beautifulsoup-python/"
+  }
+]
